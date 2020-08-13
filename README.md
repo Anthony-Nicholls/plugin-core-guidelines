@@ -1,1 +1,1 @@
-# plugin-core-guidelines
+# Plugin Core Guidelines
